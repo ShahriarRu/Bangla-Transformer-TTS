@@ -41,8 +41,6 @@ pip install -r requirements.txt
 
 ## Dataset
 
-You can directly use [LJSpeech](https://keithito.com/LJ-Speech-Dataset/) to create the training dataset.
-
 #### Configuration
 
 - Use `config/training_config.yaml` to create [MelGAN](https://github.com/seungwonpark/melgan) or [HiFiGAN](https://github.com/jik876/hifi-gan) compatible models
