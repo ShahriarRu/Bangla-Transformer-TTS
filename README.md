@@ -163,7 +163,7 @@ wav = vocoder([out['mel'].numpy().T])[0]
 On Web: [BanglaTTS](https://shahriarru.github.io/Bangla-Transformer-TTS/UI/templates/index.html)
 
 UI:
-[SystemUI](https://github.com/ShahriarRu/Bangla-Transformer-TTS/blob/main/ui.png)
+![SystemUI](https://github.com/ShahriarRu/Bangla-Transformer-TTS/blob/main/ui.png)
 
 Implementation of a non-autoregressive Transformer based neural network for Bangla Text-to-Speech (TTS). <br>
 This repo is based, among others, on the following papers:
